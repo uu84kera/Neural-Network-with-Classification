@@ -50,6 +50,3 @@ The dataset contains the chemical characteristics of food products produced by t
 
 ## Conclusion
 The model demonstrates good accuracy in classifying the products of all three producers, with particularly strong results for Producer 3. Improvements could be made to enhance sensitivity for Producer 1 and precision for Producer 2.
-
-## License
-This project is licensed under the MIT License.
