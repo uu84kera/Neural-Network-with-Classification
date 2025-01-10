@@ -31,22 +31,5 @@ The dataset contains the chemical characteristics of food products produced by t
 - Regularization methods (Ridge and Lasso Regression) were also tested, but did not improve the model significantly.
 
 ## Requirements
-- Python 3.x
+- Jupyternotebook
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
-
-## Usage
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the model training script:
-   ```
-   python .ipynb
-   ```
-
-## Conclusion
-The model demonstrates good accuracy in classifying the products of all three producers, with particularly strong results for Producer 3. Improvements could be made to enhance sensitivity for Producer 1 and precision for Producer 2.
