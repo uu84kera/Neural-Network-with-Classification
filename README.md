@@ -45,7 +45,7 @@ The dataset contains the chemical characteristics of food products produced by t
    ```
 3. Run the model training script:
    ```
-   python train_model.py
+   python .ipynb
    ```
 
 ## Conclusion
